@@ -1,0 +1,20 @@
+Access controls worksheet
+________________________________________
+
+
+	Note(s)	
+●	Who caused this incident? Robert Taylor JR
+●	When did it occur? 10/03/2023 08:29:57 AM
+●	What device was used? 152.207.255.255, Up2-NoGud	
+
+Issue(s)	
+Based on your notes, list 1-2 authorization issues:
+●	Contractors, seasonal workers, and former employees all still have admin privileges. 
+●	The user who created the breach shouldn’t have an active account
+
+Recommendation(s)
+Make at least 1 recommendation that could prevent this kind of incident:
+●	Implement a principle of least privilege to all current employees and remove access for any former employees and contractors. 
+
+
+
