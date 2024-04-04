@@ -1,0 +1,14 @@
+See document .png file for a screenshot of the BASH commands demostrated. Or see following script:
+The task was to perform the removal of a userid after a user had left the department they where working in.
+
+suder usermod -g research_team researcher9
+ls
+pwd
+analyst
+cd /home/researcher2/projects
+chown researcher9 /home/researcher2/projects/projects_r.txt
+sudo chown researcher9 /home/researcher2/projects/projects_r.txt
+usermod -a -G sales_team researcher9
+sudo usermod -a -G sales_team researcher9
+sudo userdel researcher9
+sudo groupdel researcher9
